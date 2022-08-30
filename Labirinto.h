@@ -8,7 +8,7 @@ class Labirinto{
     // Métodos
     public:
 
-        bool podeVisitar(int posicao){
+        bool podeVisitar(char posicao){
             // Código
         }
 

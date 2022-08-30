@@ -1,0 +1,1 @@
+Esqueleto das classes para o solucionador de labirintos
